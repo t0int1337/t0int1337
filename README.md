@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning frontend web development.
 - 🛠️ I’m working on [Solario](https://github.com/SolarioTeam)
 - 📫 Reach me through discord and telegram: @t0int
-- 🙍‍♂️ Pronouns: he/him
+- 😄 Pronouns: he/him
 - Since 2019
