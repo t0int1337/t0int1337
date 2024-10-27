@@ -2,7 +2,6 @@
 - 👀 I’m interested in computer science.
 - 🌱 I’m currently learning frontend web development.
 - 📫 Reach me through discord and telegram: @t0int
-- 😄 Pronouns: he/him
 - Since 2019
   
 ![Static Badge](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
