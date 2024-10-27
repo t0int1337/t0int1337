@@ -11,6 +11,7 @@
 ![Static Badge](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![Static Badge](https://img.shields.io/badge/shadcnui-black?style=for-the-badge&logo=shadcnui)
 ![Static Badge](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)
+![Static Badge](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 
 
 
