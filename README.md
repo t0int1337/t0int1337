@@ -1,9 +1,10 @@
 - 👋 Hi, I’m t0int (hexadecimal/hexadecimalist)
 - 👀 I’m interested in computer science.
 - 🌱 I’m currently learning frontend web development.
-- 📫 Reach me through discord and telegram: @t0int
 - Since 2019
-  
+
+[![Static Badge](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&link=https%3A%2F%2Ft.me%2Ft0int)](https://t.me/t0int)
+
 ![Static Badge](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
 ![Static Badge](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=next.js)
