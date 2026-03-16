@@ -6,7 +6,6 @@
 - Telegram: @t0int
 
 [![Static Badge](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&link=https%3A%2F%2Ft.me%2Ft0int)](https://t.me/t0int)
-[![Static Badge](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord)](https://discord.com/users/1097633240480747630)
 
 
 ![Static Badge](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
